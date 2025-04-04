@@ -11,7 +11,7 @@ class JConfig {
 	public $access = 1;
 	public $frontediting = 1;
 	public $debug = false;
-	public $debug_lang = false;
+	public $debug_lang = false; 
 	public $debug_lang_const = true;
 	public $dbtype = 'mysqli';
 	public $host = 'mysql.gb.stackcp.com:62672';
